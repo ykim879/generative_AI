@@ -20,3 +20,5 @@ VAEs are another type of generative model that learn a compressed, latent repres
 2. **decoder** : reconstructs the data from the latent space.
 
 The model is trained to minimize the difference between the original and reconstructed images while also regularizing the latent space.
+## Data set
+https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full
